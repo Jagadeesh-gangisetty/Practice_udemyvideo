@@ -1,0 +1,83 @@
+.table
+{
+    width: 381px;
+}
+.smallbox
+{
+    height: 100px;
+}
+
+.section{
+    font-weight: 700;
+    font-size: 15px;
+}
+.gap{
+    display: flex;
+    height: 40px;
+}
+.item
+{
+   margin-top: 10px;
+   margin-left: 5px;
+}
+.checkbox
+{
+    
+    border: none; 
+    background: #2d2f31;
+    border-color: #2d2f31;
+    color:white;
+}
+.timer
+{
+    display: flex;
+    font-size: 13px;
+    margin-left: 20px;
+    color: #6a6f73;
+    
+}
+.btnsection
+{
+   cursor: pointer;
+}
+.btn1{
+    display: flex;
+    width: 120px;
+    height: 30px;
+    background-color:transparent;
+    border: none;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+}
+.resource
+{
+    margin-top: 5px;
+}
+.link
+{
+    width: 250px;
+    margin-right: 100px;
+    box-shadow: none;
+    filter: none;
+    border-radius: 0%;
+    
+}
+
+/* MyComponent.css */
+.ref {
+    
+    font-size: 15px;
+    display: flex;
+   
+  
+  }
+  
+  .ref:hover {
+   
+    color: #5624d0;
+    
+  }
+  
+
+  
